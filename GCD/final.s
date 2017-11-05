@@ -4,7 +4,7 @@
      EXPORT __main
 	 ENTRY 
 __main  FUNCTION		 
-		MOV R2,#5740	;first number	
+		MOV R2,#5740		;first number	
 		MOV R3,#615		;second number
 		MOV R4,#0 		;register in which the final answer is stored.
 		
