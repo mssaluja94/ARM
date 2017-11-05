@@ -1,0 +1,1 @@
+Nested if then else can't be done in cortex M4 however I was able to do only nested if statements as done in GCD assignment.
